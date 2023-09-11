@@ -1,0 +1,8 @@
+{
+	"default": {
+	  "parallel": 2,
+	  "format": ["progress-bar","html:cucumber-report.html"],
+	  "paths": ["features/**/*.feature"],
+	  "import": ["features/step_definitions/**/*.mjs"]
+	}
+}
