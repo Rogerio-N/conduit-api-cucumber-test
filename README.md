@@ -14,6 +14,8 @@ This is a template repos
 
 1 - Open the project and install its dependencies, to do this run the command in the terminal: `npm install`
 
+2 - Setup a .env file with your valid credentials in https://demo.realworld.io/#/ 
+
 2 - Once the installation finishes, you can open the cypress window. Run the command: `npm run test` and you are ready to go
 
 ### Test results
